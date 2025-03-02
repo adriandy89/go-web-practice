@@ -1,0 +1,6 @@
+1-  Install "air" for automatic reload changes
+    https://github.com/air-verse/air
+
+go install github.com/air-verse/air@latest
+
+air -h
